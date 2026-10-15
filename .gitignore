@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.env
+
+# Runtime data created when the backend runs
+backend/uploads/
